@@ -282,7 +282,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20201026182000 +0900" stop="20201026192000 +0900" channel="1">
+  <programme start="20201026182000 +0900" stop="20201026193000 +0900" channel="1">
     <title lang="kr">스타트업 (4회)</title>
     <sub-title lang="kr">2부</sub-title>
     <desc lang="kr">스타트업 (4회)
@@ -295,7 +295,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20201026192000 +0900" stop="20201026210000 +0900" channel="1">
+  <programme start="20201026193000 +0900" stop="20201026210500 +0900" channel="1">
     <title lang="kr">바닷길 선발대 (2회)</title>
     <desc lang="kr">바닷길 선발대 (2회)
 회차 : 2회
@@ -306,7 +306,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20201026210000 +0900" stop="20201026223000 +0900" channel="1">
+  <programme start="20201026210500 +0900" stop="20201026223500 +0900" channel="1">
     <title lang="kr">청춘기록 (15회)</title>
     <desc lang="kr">청춘기록 (15회)
 회차 : 15회
@@ -452,7 +452,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20201026182000 +0900" stop="20201026192000 +0900" channel="1">
+  <programme start="20201026182000 +0900" stop="20201026193000 +0900" channel="1">
     <title lang="kr">스타트업 (4회)</title>
     <sub-title lang="kr">2부</sub-title>
     <desc lang="kr">스타트업 (4회)
@@ -465,7 +465,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20201026192000 +0900" stop="20201026210000 +0900" channel="1">
+  <programme start="20201026193000 +0900" stop="20201026210500 +0900" channel="1">
     <title lang="kr">바닷길 선발대 (2회)</title>
     <desc lang="kr">바닷길 선발대 (2회)
 회차 : 2회
@@ -476,7 +476,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20201026210000 +0900" stop="20201026223000 +0900" channel="1">
+  <programme start="20201026210500 +0900" stop="20201026223500 +0900" channel="1">
     <title lang="kr">청춘기록 (15회)</title>
     <desc lang="kr">청춘기록 (15회)
 회차 : 15회
@@ -486,7 +486,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20201026223000 +0900" stop="20201027002000 +0900" channel="1">
+  <programme start="20201026223500 +0900" stop="20201027003000 +0900" channel="1">
     <title lang="kr">신박한 정리 (16회)</title>
     <sub-title lang="kr">홍석천</sub-title>
     <desc lang="kr">신박한 정리 (16회)
@@ -498,7 +498,7 @@
       <value>12세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20201027002000 +0900" stop="20201027013000 +0900" channel="1">
+  <programme start="20201027003000 +0900" stop="20201027014500 +0900" channel="1">
     <title lang="kr">프리한 19 (231회)</title>
     <sub-title lang="kr">세상 부끄러움 모르는 표절 19</sub-title>
     <desc lang="kr">프리한 19 (231회)
@@ -510,7 +510,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20201027013000 +0900" stop="20201027030000 +0900" channel="1">
+  <programme start="20201027014500 +0900" stop="20201027031600 +0900" channel="1">
     <title lang="kr">코미디 빅리그 (381회)</title>
     <desc lang="kr">코미디 빅리그 (381회)
 회차 : 381회
@@ -521,7 +521,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20201027030000 +0900" stop="20201027044000 +0900" channel="1">
+  <programme start="20201027031600 +0900" stop="20201027045500 +0900" channel="1">
     <title lang="kr">슬기로운 의사생활 (1회)</title>
     <desc lang="kr">슬기로운 의사생활 (1회)
 회차 : 1회
@@ -532,7 +532,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20201027044000 +0900" stop="20201027063000 +0900" channel="1">
+  <programme start="20201027045500 +0900" stop="20201027063800 +0900" channel="1">
     <title lang="kr">슬기로운 의사생활 (2회)</title>
     <desc lang="kr">슬기로운 의사생활 (2회)
 회차 : 2회
@@ -543,7 +543,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20201027063000 +0900" stop="20201027075000 +0900" channel="1">
+  <programme start="20201027063800 +0900" stop="20201027080500 +0900" channel="1">
     <title lang="kr">스페인 하숙 (3회)</title>
     <desc lang="kr">스페인 하숙 (3회)
 회차 : 3회
@@ -554,7 +554,7 @@
       <value>12세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20201027075000 +0900" stop="20201027095000 +0900" channel="1">
+  <programme start="20201027080500 +0900" stop="20201027095900 +0900" channel="1">
     <title lang="kr">스페인 하숙 (4회)</title>
     <desc lang="kr">스페인 하숙 (4회)
 회차 : 4회
@@ -565,7 +565,7 @@
       <value>12세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20201027095000 +0900" stop="20201027112000 +0900" channel="1">
+  <programme start="20201027095900 +0900" stop="20201027112600 +0900" channel="1">
     <title lang="kr">청춘기록 (15회)</title>
     <desc lang="kr">청춘기록 (15회)
 회차 : 15회
@@ -576,7 +576,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20201027112000 +0900" stop="20201027121000 +0900" channel="1">
+  <programme start="20201027112600 +0900" stop="20201027120100 +0900" channel="1">
     <title lang="kr">스타트업 (3회)</title>
     <sub-title lang="kr">1부</sub-title>
     <desc lang="kr">스타트업 (3회)
@@ -589,7 +589,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20201027121000 +0900" stop="20201027131000 +0900" channel="1">
+  <programme start="20201027120100 +0900" stop="20201027131100 +0900" channel="1">
     <title lang="kr">스타트업 (3회)</title>
     <sub-title lang="kr">2부</sub-title>
     <desc lang="kr">스타트업 (3회)
@@ -602,7 +602,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20201027131000 +0900" stop="20201027135000 +0900" channel="1">
+  <programme start="20201027131100 +0900" stop="20201027134500 +0900" channel="1">
     <title lang="kr">스타트업 (4회)</title>
     <sub-title lang="kr">1부</sub-title>
     <desc lang="kr">스타트업 (4회)
@@ -615,7 +615,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20201027135000 +0900" stop="20201027150000 +0900" channel="1">
+  <programme start="20201027134500 +0900" stop="20201027145400 +0900" channel="1">
     <title lang="kr">스타트업 (4회)</title>
     <sub-title lang="kr">2부</sub-title>
     <desc lang="kr">스타트업 (4회)
@@ -628,20 +628,18 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20201027150000 +0900" stop="20201027162000 +0900" channel="1">
-    <title lang="kr">프리한 19 (230회)</title>
-    <sub-title lang="kr">내일 당장 떠날 수 있다면 19</sub-title>
-    <desc lang="kr">프리한 19 (230회)
-부제 : 내일 당장 떠날 수 있다면 19
-회차 : 230회
+  <programme start="20201027145400 +0900" stop="20201027161900 +0900" channel="1">
+    <title lang="kr">온앤오프 (25회)</title>
+    <desc lang="kr">온앤오프 (25회)
+회차 : 25회
 등급 : 15세 이상 관람가</desc>
-    <episode-num system="xmltv_ns">0.229.0/0</episode-num>
+    <episode-num system="xmltv_ns">0.24.0/0</episode-num>
     <previously-shown />
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20201027162000 +0900" stop="20201027182000 +0900" channel="1">
+  <programme start="20201027161900 +0900" stop="20201027182000 +0900" channel="1">
     <title lang="kr">신박한 정리 (16회)</title>
     <desc lang="kr">신박한 정리 (16회)
 회차 : 16회
@@ -783,17 +781,9 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20201026110000 +0900" stop="20201026113000 +0900" channel="2">
-    <title lang="kr">꾸러기 탐구생활</title>
-    <desc lang="kr">꾸러기 탐구생활
-등급 : 전체 관람가</desc>
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20201026113000 +0900" stop="20201026125000 +0900" channel="2">
-    <title lang="kr">요리조리 맛있는 수업</title>
-    <desc lang="kr">요리조리 맛있는 수업
+  <programme start="20201026110000 +0900" stop="20201026125000 +0900" channel="2">
+    <title lang="kr">SBS 뉴스특보</title>
+    <desc lang="kr">SBS 뉴스특보
 등급 : 전체 관람가</desc>
     <rating system="KMRB">
       <value>전체 관람가</value>
@@ -1025,17 +1015,9 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20201026110000 +0900" stop="20201026113000 +0900" channel="2">
-    <title lang="kr">꾸러기 탐구생활</title>
-    <desc lang="kr">꾸러기 탐구생활
-등급 : 전체 관람가</desc>
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20201026113000 +0900" stop="20201026125000 +0900" channel="2">
-    <title lang="kr">요리조리 맛있는 수업</title>
-    <desc lang="kr">요리조리 맛있는 수업
+  <programme start="20201026110000 +0900" stop="20201026125000 +0900" channel="2">
+    <title lang="kr">SBS 뉴스특보</title>
+    <desc lang="kr">SBS 뉴스특보
 등급 : 전체 관람가</desc>
     <rating system="KMRB">
       <value>전체 관람가</value>
@@ -2350,9 +2332,17 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20201026095500 +0900" stop="20201026122000 +0900" channel="4">
+  <programme start="20201026095500 +0900" stop="20201026104500 +0900" channel="4">
     <title lang="kr">중계방송 2020년 법무부 종합감사 / (2안포함)</title>
     <desc lang="kr">중계방송 2020년 법무부 종합감사 / (2안포함)
+등급 : 전체 관람가</desc>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20201026104500 +0900" stop="20201026122000 +0900" channel="4">
+    <title lang="kr">중계방송 2020년 법무부 종합감사</title>
+    <desc lang="kr">중계방송 2020년 법무부 종합감사
 등급 : 전체 관람가</desc>
     <rating system="KMRB">
       <value>전체 관람가</value>
@@ -2382,34 +2372,9 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20201026135000 +0900" stop="20201026152000 +0900" channel="4">
-    <title lang="kr">2시 뉴스 외전</title>
-    <desc lang="kr">2시 뉴스 외전
-등급 : 전체 관람가</desc>
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20201026152000 +0900" stop="20201026160000 +0900" channel="4">
-    <title lang="kr">이 맛에 산다</title>
-    <desc lang="kr">이 맛에 산다
-등급 : 12세 이상 관람가</desc>
-    <rating system="KMRB">
-      <value>12세 이상 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20201026160000 +0900" stop="20201026170000 +0900" channel="4">
-    <title lang="kr">기분 좋은 날</title>
-    <desc lang="kr">기분 좋은 날
-등급 : 12세 이상 관람가</desc>
-    <previously-shown />
-    <rating system="KMRB">
-      <value>12세 이상 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20201026170000 +0900" stop="20201026171500 +0900" channel="4">
-    <title lang="kr">5 MBC 뉴스</title>
-    <desc lang="kr">5 MBC 뉴스
+  <programme start="20201026135000 +0900" stop="20201026171500 +0900" channel="4">
+    <title lang="kr">2시 뉴스 외전 / (2안포함)</title>
+    <desc lang="kr">2시 뉴스 외전 / (2안포함)
 등급 : 전체 관람가</desc>
     <rating system="KMRB">
       <value>전체 관람가</value>
@@ -2579,9 +2544,17 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20201026095500 +0900" stop="20201026122000 +0900" channel="4">
+  <programme start="20201026095500 +0900" stop="20201026104500 +0900" channel="4">
     <title lang="kr">중계방송 2020년 법무부 종합감사 / (2안포함)</title>
     <desc lang="kr">중계방송 2020년 법무부 종합감사 / (2안포함)
+등급 : 전체 관람가</desc>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20201026104500 +0900" stop="20201026122000 +0900" channel="4">
+    <title lang="kr">중계방송 2020년 법무부 종합감사</title>
+    <desc lang="kr">중계방송 2020년 법무부 종합감사
 등급 : 전체 관람가</desc>
     <rating system="KMRB">
       <value>전체 관람가</value>
@@ -2611,34 +2584,9 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20201026135000 +0900" stop="20201026152000 +0900" channel="4">
-    <title lang="kr">2시 뉴스 외전</title>
-    <desc lang="kr">2시 뉴스 외전
-등급 : 전체 관람가</desc>
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20201026152000 +0900" stop="20201026160000 +0900" channel="4">
-    <title lang="kr">이 맛에 산다</title>
-    <desc lang="kr">이 맛에 산다
-등급 : 12세 이상 관람가</desc>
-    <rating system="KMRB">
-      <value>12세 이상 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20201026160000 +0900" stop="20201026170000 +0900" channel="4">
-    <title lang="kr">기분 좋은 날</title>
-    <desc lang="kr">기분 좋은 날
-등급 : 12세 이상 관람가</desc>
-    <previously-shown />
-    <rating system="KMRB">
-      <value>12세 이상 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20201026170000 +0900" stop="20201026171500 +0900" channel="4">
-    <title lang="kr">5 MBC 뉴스</title>
-    <desc lang="kr">5 MBC 뉴스
+  <programme start="20201026135000 +0900" stop="20201026171500 +0900" channel="4">
+    <title lang="kr">2시 뉴스 외전 / (2안포함)</title>
+    <desc lang="kr">2시 뉴스 외전 / (2안포함)
 등급 : 전체 관람가</desc>
     <rating system="KMRB">
       <value>전체 관람가</value>
@@ -6161,7 +6109,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20201027001500 +0900" stop="20201027015500 +0900" channel="10">
+  <programme start="20201027001500 +0900" stop="20201027021000 +0900" channel="10">
     <title lang="kr">유희열의 스케치북 (513회)</title>
     <desc lang="kr">유희열의 스케치북 (513회)
 회차 : 513회
@@ -6171,29 +6119,18 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20201027015500 +0900" stop="20201027030500 +0900" channel="10">
-    <title lang="kr">연애의 참견 시즌2 (35회)</title>
-    <desc lang="kr">연애의 참견 시즌2 (35회)
-회차 : 35회
+  <programme start="20201027021000 +0900" stop="20201027034000 +0900" channel="10">
+    <title lang="kr">개는 훌륭하다 (50회)</title>
+    <desc lang="kr">개는 훌륭하다 (50회)
+회차 : 50회
 등급 : 15세 이상 관람가</desc>
-    <episode-num system="xmltv_ns">0.34.0/0</episode-num>
+    <episode-num system="xmltv_ns">0.49.0/0</episode-num>
     <previously-shown />
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20201027030500 +0900" stop="20201027041000 +0900" channel="10">
-    <title lang="kr">연애의 참견 시즌2 (36회)</title>
-    <desc lang="kr">연애의 참견 시즌2 (36회)
-회차 : 36회
-등급 : 15세 이상 관람가</desc>
-    <episode-num system="xmltv_ns">0.35.0/0</episode-num>
-    <previously-shown />
-    <rating system="KMRB">
-      <value>15세 이상 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20201027041000 +0900" stop="20201027051000 +0900" channel="10">
+  <programme start="20201027034000 +0900" stop="20201027044000 +0900" channel="10">
     <title lang="kr">걸어서 세계속으로 (518회)</title>
     <sub-title lang="kr">뉴욕 - 콘크리트 정글</sub-title>
     <desc lang="kr">걸어서 세계속으로 (518회)
@@ -6206,7 +6143,7 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20201027051000 +0900" stop="20201027063000 +0900" channel="10">
+  <programme start="20201027044000 +0900" stop="20201027060000 +0900" channel="10">
     <title lang="kr">1박 2일 시즌4 (46회)</title>
     <desc lang="kr">1박 2일 시즌4 (46회)
 회차 : 46회
@@ -6217,7 +6154,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20201027063000 +0900" stop="20201027075000 +0900" channel="10">
+  <programme start="20201027060000 +0900" stop="20201027073000 +0900" channel="10">
     <title lang="kr">사장님 귀는 당나귀 귀 (79회)</title>
     <desc lang="kr">사장님 귀는 당나귀 귀 (79회)
 회차 : 79회
@@ -6228,7 +6165,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20201027075000 +0900" stop="20201027091000 +0900" channel="10">
+  <programme start="20201027073000 +0900" stop="20201027091000 +0900" channel="10">
     <title lang="kr">신상출시 편스토랑 (52회)</title>
     <desc lang="kr">신상출시 편스토랑 (52회)
 회차 : 52회
@@ -6774,7 +6711,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20201026224500 +0900" stop="20201027000700 +0900" channel="11">
+  <programme start="20201026224500 +0900" stop="20201027001000 +0900" channel="11">
     <title lang="kr">카이로스 (1회)</title>
     <sub-title lang="kr">첫회</sub-title>
     <desc lang="kr">카이로스 (1회)
@@ -6786,7 +6723,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20201027000700 +0900" stop="20201027010300 +0900" channel="11">
+  <programme start="20201027001000 +0900" stop="20201027010700 +0900" channel="11">
     <title lang="kr">지구촌 어린이 돕기 희망더하기</title>
     <sub-title lang="kr">니제르(이혜숙)</sub-title>
     <desc lang="kr">지구촌 어린이 돕기 희망더하기
@@ -6797,7 +6734,7 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20201027010300 +0900" stop="20201027022000 +0900" channel="11">
+  <programme start="20201027010700 +0900" stop="20201027022700 +0900" channel="11">
     <title lang="kr">카이로스 (1회)</title>
     <desc lang="kr">카이로스 (1회)
 회차 : 1회
@@ -6808,7 +6745,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20201027022000 +0900" stop="20201027024800 +0900" channel="11">
+  <programme start="20201027022700 +0900" stop="20201027025500 +0900" channel="11">
     <title lang="kr">찬란한 내 인생 (78회)</title>
     <desc lang="kr">찬란한 내 인생 (78회)
 회차 : 78회
@@ -6819,7 +6756,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20201027024800 +0900" stop="20201027032200 +0900" channel="11">
+  <programme start="20201027025500 +0900" stop="20201027033100 +0900" channel="11">
     <title lang="kr">찬란한 내 인생 (79회)</title>
     <desc lang="kr">찬란한 내 인생 (79회)
 회차 : 79회
@@ -6829,7 +6766,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20201027032200 +0900" stop="20201027044900 +0900" channel="11">
+  <programme start="20201027033100 +0900" stop="20201027050400 +0900" channel="11">
     <title lang="kr">어서와! 한국은 처음이지? (50회)</title>
     <sub-title lang="kr">미국1</sub-title>
     <desc lang="kr">어서와! 한국은 처음이지? (50회)
@@ -6842,18 +6779,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20201027044900 +0900" stop="20201027050000 +0900" channel="11">
-    <title lang="kr">무한도전</title>
-    <sub-title lang="kr">긍정 특집</sub-title>
-    <desc lang="kr">무한도전
-부제 : 긍정 특집
-등급 : 12세 이상 관람가</desc>
-    <previously-shown />
-    <rating system="KMRB">
-      <value>12세 이상 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20201027050000 +0900" stop="20201027055000 +0900" channel="11">
+  <programme start="20201027050400 +0900" stop="20201027053600 +0900" channel="11">
     <title lang="kr">이브의 사랑 (73회)</title>
     <desc lang="kr">이브의 사랑 (73회)
 회차 : 73회
@@ -6864,7 +6790,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20201027055000 +0900" stop="20201027063000 +0900" channel="11">
+  <programme start="20201027053600 +0900" stop="20201027060900 +0900" channel="11">
     <title lang="kr">이브의 사랑 (74회)</title>
     <desc lang="kr">이브의 사랑 (74회)
 회차 : 74회
@@ -6875,7 +6801,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20201027063000 +0900" stop="20201027070000 +0900" channel="11">
+  <programme start="20201027060900 +0900" stop="20201027064200 +0900" channel="11">
     <title lang="kr">이브의 사랑 (75회)</title>
     <desc lang="kr">이브의 사랑 (75회)
 회차 : 75회
@@ -6886,7 +6812,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20201027070000 +0900" stop="20201027073000 +0900" channel="11">
+  <programme start="20201027064200 +0900" stop="20201027071400 +0900" channel="11">
     <title lang="kr">이브의 사랑 (76회)</title>
     <desc lang="kr">이브의 사랑 (76회)
 회차 : 76회
@@ -6897,7 +6823,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20201027073000 +0900" stop="20201027080000 +0900" channel="11">
+  <programme start="20201027071400 +0900" stop="20201027075800 +0900" channel="11">
     <title lang="kr">이브의 사랑 (77회)</title>
     <desc lang="kr">이브의 사랑 (77회)
 회차 : 77회
@@ -6908,7 +6834,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20201027080000 +0900" stop="20201027090000 +0900" channel="11">
+  <programme start="20201027075800 +0900" stop="20201027085800 +0900" channel="11">
     <title lang="kr">보험직썰 돈직구 (1회)</title>
     <desc lang="kr">보험직썰 돈직구 (1회)
 회차 : 1회
@@ -6919,7 +6845,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20201027090000 +0900" stop="20201027103000 +0900" channel="11">
+  <programme start="20201027085800 +0900" stop="20201027104300 +0900" channel="11">
     <title lang="kr">나 혼자 산다 (368회)</title>
     <desc lang="kr">나 혼자 산다 (368회)
 회차 : 368회
@@ -6930,7 +6856,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20201027103000 +0900" stop="20201027132000 +0900" channel="11">
+  <programme start="20201027104300 +0900" stop="20201027121300 +0900" channel="11">
     <title lang="kr">요트 원정대 : 더 비기닝 (1회)</title>
     <sub-title lang="kr">첫회</sub-title>
     <desc lang="kr">요트 원정대 : 더 비기닝 (1회)
@@ -6942,7 +6868,20 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20201027132000 +0900" stop="20201027150000 +0900" channel="11">
+  <programme start="20201027121300 +0900" stop="20201027134400 +0900" channel="11">
+    <title lang="kr">카이로스 (1회)</title>
+    <sub-title lang="kr">첫회</sub-title>
+    <desc lang="kr">카이로스 (1회)
+부제 : 첫회
+회차 : 1회
+등급 : 15세 이상 관람가</desc>
+    <episode-num system="xmltv_ns">0.0.0/0</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20201027134400 +0900" stop="20201027152600 +0900" channel="11">
     <title lang="kr">나 혼자 산다 (368회)</title>
     <desc lang="kr">나 혼자 산다 (368회)
 회차 : 368회
@@ -6953,7 +6892,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20201027150000 +0900" stop="20201027163000 +0900" channel="11">
+  <programme start="20201027152600 +0900" stop="20201027163400 +0900" channel="11">
     <title lang="kr">전지적 참견 시점 (127회)</title>
     <desc lang="kr">전지적 참견 시점 (127회)
 회차 : 127회
@@ -6964,7 +6903,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20201027163000 +0900" stop="20201027180000 +0900" channel="11">
+  <programme start="20201027163400 +0900" stop="20201027180000 +0900" channel="11">
     <title lang="kr">놀면 뭐하니? (65회)</title>
     <desc lang="kr">놀면 뭐하니? (65회)
 회차 : 65회
@@ -6975,7 +6914,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20201027180000 +0900" stop="20201027194000 +0900" channel="11">
+  <programme start="20201027180000 +0900" stop="20201027193700 +0900" channel="11">
     <title lang="kr">구해줘! 홈즈 (81회)</title>
     <desc lang="kr">구해줘! 홈즈 (81회)
 회차 : 81회
@@ -6986,7 +6925,7 @@
       <value>12세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20201027194000 +0900" stop="20201027212000 +0900" channel="11">
+  <programme start="20201027193700 +0900" stop="20201027212200 +0900" channel="11">
     <title lang="kr">나 혼자 산다 (368회)</title>
     <desc lang="kr">나 혼자 산다 (368회)
 회차 : 368회
@@ -6997,7 +6936,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20201027212000 +0900" stop="20201027225000 +0900" channel="11">
+  <programme start="20201027212200 +0900" stop="20201027224500 +0900" channel="11">
     <title lang="kr">놀면 뭐하니? (65회)</title>
     <desc lang="kr">놀면 뭐하니? (65회)
 회차 : 65회
@@ -8553,7 +8492,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20201026141100 +0900" stop="20201026163300 +0900" channel="15">
+  <programme start="20201026141100 +0900" stop="20201026163400 +0900" channel="15">
     <title lang="kr">[최신판-개그쀼세]1호가 될 순 없어 (22회)</title>
     <desc lang="kr">[최신판-개그쀼세]1호가 될 순 없어 (22회)
 회차 : 22회
@@ -8564,7 +8503,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20201026163300 +0900" stop="20201026184800 +0900" channel="15">
+  <programme start="20201026163400 +0900" stop="20201026184800 +0900" channel="15">
     <title lang="kr">[개콘FC]뭉쳐야 찬다 (68회)</title>
     <sub-title lang="kr">개콘FC</sub-title>
     <desc lang="kr">[개콘FC]뭉쳐야 찬다 (68회)
@@ -8578,9 +8517,9 @@
     </rating>
   </programme>
   <programme start="20201026184800 +0900" stop="20201026210400 +0900" channel="15">
-    <title lang="kr">[장범준]히든싱어6 (12회)</title>
+    <title lang="kr">[역대급충격엔딩-장범준]히든싱어6 (12회)</title>
     <sub-title lang="kr">장범준</sub-title>
-    <desc lang="kr">[장범준]히든싱어6 (12회)
+    <desc lang="kr">[역대급충격엔딩-장범준]히든싱어6 (12회)
 부제 : 장범준
 회차 : 12회
 등급 : 15세 이상 관람가</desc>
@@ -8673,7 +8612,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20201026141100 +0900" stop="20201026163300 +0900" channel="15">
+  <programme start="20201026141100 +0900" stop="20201026163400 +0900" channel="15">
     <title lang="kr">[최신판-개그쀼세]1호가 될 순 없어 (22회)</title>
     <desc lang="kr">[최신판-개그쀼세]1호가 될 순 없어 (22회)
 회차 : 22회
@@ -8684,7 +8623,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20201026163300 +0900" stop="20201026184800 +0900" channel="15">
+  <programme start="20201026163400 +0900" stop="20201026184800 +0900" channel="15">
     <title lang="kr">[개콘FC]뭉쳐야 찬다 (68회)</title>
     <sub-title lang="kr">개콘FC</sub-title>
     <desc lang="kr">[개콘FC]뭉쳐야 찬다 (68회)
@@ -8698,9 +8637,9 @@
     </rating>
   </programme>
   <programme start="20201026184800 +0900" stop="20201026210400 +0900" channel="15">
-    <title lang="kr">[장범준]히든싱어6 (12회)</title>
+    <title lang="kr">[역대급충격엔딩-장범준]히든싱어6 (12회)</title>
     <sub-title lang="kr">장범준</sub-title>
-    <desc lang="kr">[장범준]히든싱어6 (12회)
+    <desc lang="kr">[역대급충격엔딩-장범준]히든싱어6 (12회)
 부제 : 장범준
 회차 : 12회
 등급 : 15세 이상 관람가</desc>
@@ -8721,7 +8660,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20201026232000 +0900" stop="20201027004700 +0900" channel="15">
+  <programme start="20201026232000 +0900" stop="20201027004300 +0900" channel="15">
     <title lang="kr">[바로보는본방]18 어게인 (11회)</title>
     <desc lang="kr">[바로보는본방]18 어게인 (11회)
 회차 : 11회
@@ -8731,10 +8670,10 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20201027004700 +0900" stop="20201027024900 +0900" channel="15">
-    <title lang="kr">[장범준]히든싱어6 (12회)</title>
+  <programme start="20201027004300 +0900" stop="20201027030400 +0900" channel="15">
+    <title lang="kr">[역대급충격엔딩-장범준]히든싱어6 (12회)</title>
     <sub-title lang="kr">장범준</sub-title>
-    <desc lang="kr">[장범준]히든싱어6 (12회)
+    <desc lang="kr">[역대급충격엔딩-장범준]히든싱어6 (12회)
 부제 : 장범준
 회차 : 12회
 등급 : 15세 이상 관람가</desc>
@@ -8744,7 +8683,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20201027024900 +0900" stop="20201027050200 +0900" channel="15">
+  <programme start="20201027030400 +0900" stop="20201027052200 +0900" channel="15">
     <title lang="kr">[최신판-개그쀼세]1호가 될 순 없어 (22회)</title>
     <desc lang="kr">[최신판-개그쀼세]1호가 될 순 없어 (22회)
 회차 : 22회
@@ -8755,24 +8694,11 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20201027050200 +0900" stop="20201027060000 +0900" channel="15">
-    <title lang="kr">[권상우X김희원]아는 형님 (203회)</title>
-    <sub-title lang="kr">권상우-김희원-김성균-허성태</sub-title>
-    <desc lang="kr">[권상우X김희원]아는 형님 (203회)
-부제 : 권상우-김희원-김성균-허성태
-회차 : 203회
-등급 : 15세 이상 관람가</desc>
-    <episode-num system="xmltv_ns">0.202.0/0</episode-num>
-    <previously-shown />
-    <rating system="KMRB">
-      <value>15세 이상 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20201027060000 +0900" stop="20201027080000 +0900" channel="15">
-    <title lang="kr">[독점-송승헌남해캠핑] 갬성캠핑 (2회)</title>
-    <sub-title lang="kr">송승헌</sub-title>
-    <desc lang="kr">[독점-송승헌남해캠핑] 갬성캠핑 (2회)
-부제 : 송승헌
+  <programme start="20201027052200 +0900" stop="20201027064500 +0900" channel="15">
+    <title lang="kr">[독점-송승헌남해캠핑]갬성캠핑 (2회)</title>
+    <sub-title lang="kr">남해캠핑2탄(송승헌)</sub-title>
+    <desc lang="kr">[독점-송승헌남해캠핑]갬성캠핑 (2회)
+부제 : 남해캠핑2탄(송승헌)
 회차 : 2회
 등급 : 15세 이상 관람가</desc>
     <episode-num system="xmltv_ns">0.1.0/0</episode-num>
@@ -8781,10 +8707,10 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20201027080000 +0900" stop="20201027100000 +0900" channel="15">
-    <title lang="kr">[장범준] 히든싱어 6 (12회)</title>
+  <programme start="20201027064500 +0900" stop="20201027090000 +0900" channel="15">
+    <title lang="kr">[역대급충격엔딩-장범준]히든싱어6 (12회)</title>
     <sub-title lang="kr">장범준</sub-title>
-    <desc lang="kr">[장범준] 히든싱어 6 (12회)
+    <desc lang="kr">[역대급충격엔딩-장범준]히든싱어6 (12회)
 부제 : 장범준
 회차 : 12회
 등급 : 15세 이상 관람가</desc>
@@ -8794,9 +8720,9 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20201027100000 +0900" stop="20201027130000 +0900" channel="15">
-    <title lang="kr">[최신판-개그쀼세] 1호가 될 순 없어 (22회)</title>
-    <desc lang="kr">[최신판-개그쀼세] 1호가 될 순 없어 (22회)
+  <programme start="20201027090000 +0900" stop="20201027111600 +0900" channel="15">
+    <title lang="kr">[최신판-개그쀼세]1호가 될 순 없어 (22회)</title>
+    <desc lang="kr">[최신판-개그쀼세]1호가 될 순 없어 (22회)
 회차 : 22회
 등급 : 15세 이상 관람가</desc>
     <episode-num system="xmltv_ns">0.21.0/0</episode-num>
@@ -8805,10 +8731,21 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20201027130000 +0900" stop="20201027150000 +0900" channel="15">
-    <title lang="kr">[개콘FC] 뭉쳐야 찬다 (68회)</title>
+  <programme start="20201027111600 +0900" stop="20201027123800 +0900" channel="15">
+    <title lang="kr">[김하늘X윤상현]18 어게인 (11회)</title>
+    <desc lang="kr">[김하늘X윤상현]18 어게인 (11회)
+회차 : 11회
+등급 : 15세 이상 관람가</desc>
+    <episode-num system="xmltv_ns">0.10.0/0</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20201027123800 +0900" stop="20201027135800 +0900" channel="15">
+    <title lang="kr">[개콘FC]뭉쳐야 찬다 (68회)</title>
     <sub-title lang="kr">개콘FC</sub-title>
-    <desc lang="kr">[개콘FC] 뭉쳐야 찬다 (68회)
+    <desc lang="kr">[개콘FC]뭉쳐야 찬다 (68회)
 부제 : 개콘FC
 회차 : 68회
 등급 : 15세 이상 관람가</desc>
@@ -8818,10 +8755,10 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20201027150000 +0900" stop="20201027170000 +0900" channel="15">
-    <title lang="kr">[장범준] 히든싱어 6 (12회)</title>
+  <programme start="20201027135800 +0900" stop="20201027161100 +0900" channel="15">
+    <title lang="kr">[역대급충격엔딩-장범준]히든싱어6 (12회)</title>
     <sub-title lang="kr">장범준</sub-title>
-    <desc lang="kr">[장범준] 히든싱어 6 (12회)
+    <desc lang="kr">[역대급충격엔딩-장범준]히든싱어6 (12회)
 부제 : 장범준
 회차 : 12회
 등급 : 15세 이상 관람가</desc>
@@ -8831,9 +8768,9 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20201027170000 +0900" stop="20201027180000 +0900" channel="15">
-    <title lang="kr">[김하늘X윤상현] 18 어게인 (11회)</title>
-    <desc lang="kr">[김하늘X윤상현] 18 어게인 (11회)
+  <programme start="20201027161100 +0900" stop="20201027173400 +0900" channel="15">
+    <title lang="kr">[김하늘X윤상현]18 어게인 (11회)</title>
+    <desc lang="kr">[김하늘X윤상현]18 어게인 (11회)
 회차 : 11회
 등급 : 15세 이상 관람가</desc>
     <episode-num system="xmltv_ns">0.10.0/0</episode-num>
@@ -8842,9 +8779,9 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20201027180000 +0900" stop="20201027200000 +0900" channel="15">
-    <title lang="kr">[최신판-개그쀼세] 1호가 될 순 없어 (22회)</title>
-    <desc lang="kr">[최신판-개그쀼세] 1호가 될 순 없어 (22회)
+  <programme start="20201027173400 +0900" stop="20201027194800 +0900" channel="15">
+    <title lang="kr">[최신판-개그쀼세]1호가 될 순 없어 (22회)</title>
+    <desc lang="kr">[최신판-개그쀼세]1호가 될 순 없어 (22회)
 회차 : 22회
 등급 : 15세 이상 관람가</desc>
     <episode-num system="xmltv_ns">0.21.0/0</episode-num>
@@ -8853,9 +8790,9 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20201027200000 +0900" stop="20201027210000 +0900" channel="15">
-    <title lang="kr">[김하늘X윤상현] 18 어게인 (11회)</title>
-    <desc lang="kr">[김하늘X윤상현] 18 어게인 (11회)
+  <programme start="20201027194800 +0900" stop="20201027210400 +0900" channel="15">
+    <title lang="kr">[김하늘X윤상현]18 어게인 (11회)</title>
+    <desc lang="kr">[김하늘X윤상현]18 어게인 (11회)
 회차 : 11회
 등급 : 15세 이상 관람가</desc>
     <episode-num system="xmltv_ns">0.10.0/0</episode-num>
@@ -8864,9 +8801,9 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20201027210000 +0900" stop="20201027233000 +0900" channel="15">
-    <title lang="kr">[최신판-개그쀼세] 1호가 될 순 없어 (22회)</title>
-    <desc lang="kr">[최신판-개그쀼세] 1호가 될 순 없어 (22회)
+  <programme start="20201027210400 +0900" stop="20201027232000 +0900" channel="15">
+    <title lang="kr">[최신판-개그쀼세]1호가 될 순 없어 (22회)</title>
+    <desc lang="kr">[최신판-개그쀼세]1호가 될 순 없어 (22회)
 회차 : 22회
 등급 : 15세 이상 관람가</desc>
     <episode-num system="xmltv_ns">0.21.0/0</episode-num>
@@ -24612,7 +24549,7 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20201026080100 +0900" stop="20201026090200 +0900" channel="40">
+  <programme start="20201026080100 +0900" stop="20201026083000 +0900" channel="40">
     <title lang="kr">2020 베이스볼S (146회)</title>
     <desc lang="kr">2020 베이스볼S (146회)
 회차 : 146회
@@ -24623,15 +24560,7 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20201026090200 +0900" stop="20201026101200 +0900" channel="40">
-    <title lang="kr">20-21 V-리그 최고의 세트</title>
-    <desc lang="kr">20-21 V-리그 최고의 세트
-등급 : 전체 관람가</desc>
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20201026101200 +0900" stop="20201026110500 +0900" channel="40">
+  <programme start="20201026083000 +0900" stop="20201026093000 +0900" channel="40">
     <title lang="kr">2020 KBO리그 주간 명승부 BEST</title>
     <desc lang="kr">2020 KBO리그 주간 명승부 BEST
 등급 : 전체 관람가</desc>
@@ -24639,7 +24568,7 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20201026110500 +0900" stop="20201026130300 +0900" channel="40">
+  <programme start="20201026093000 +0900" stop="20201026121000 +0900" channel="40">
     <title lang="kr">20-21 V-리그 남자부</title>
     <sub-title lang="kr">대한항공:OK금융그룹,인천</sub-title>
     <desc lang="kr">20-21 V-리그 남자부
@@ -24650,7 +24579,7 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20201026130300 +0900" stop="20201026150100 +0900" channel="40">
+  <programme start="20201026121000 +0900" stop="20201026144000 +0900" channel="40">
     <title lang="kr">20-21 V-리그 남자부</title>
     <sub-title lang="kr">삼성화재:현대캐피탈,대전</sub-title>
     <desc lang="kr">20-21 V-리그 남자부
@@ -24661,7 +24590,7 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20201026150100 +0900" stop="20201026170100 +0900" channel="40">
+  <programme start="20201026144000 +0900" stop="20201026164000 +0900" channel="40">
     <title lang="kr">20-21 V-리그 여자부</title>
     <sub-title lang="kr">IBK기업은행:GS칼텍스,화성</sub-title>
     <desc lang="kr">20-21 V-리그 여자부
@@ -24672,7 +24601,7 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20201026170100 +0900" stop="20201026185800 +0900" channel="40">
+  <programme start="20201026164000 +0900" stop="20201026185800 +0900" channel="40">
     <title lang="kr">20-21 V-리그 여자부</title>
     <sub-title lang="kr">흥국생명:KGC인삼공사,인천</sub-title>
     <desc lang="kr">20-21 V-리그 여자부
@@ -24771,7 +24700,7 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20201026080100 +0900" stop="20201026090200 +0900" channel="40">
+  <programme start="20201026080100 +0900" stop="20201026083000 +0900" channel="40">
     <title lang="kr">2020 베이스볼S (146회)</title>
     <desc lang="kr">2020 베이스볼S (146회)
 회차 : 146회
@@ -24782,15 +24711,7 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20201026090200 +0900" stop="20201026101200 +0900" channel="40">
-    <title lang="kr">20-21 V-리그 최고의 세트</title>
-    <desc lang="kr">20-21 V-리그 최고의 세트
-등급 : 전체 관람가</desc>
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20201026101200 +0900" stop="20201026110500 +0900" channel="40">
+  <programme start="20201026083000 +0900" stop="20201026093000 +0900" channel="40">
     <title lang="kr">2020 KBO리그 주간 명승부 BEST</title>
     <desc lang="kr">2020 KBO리그 주간 명승부 BEST
 등급 : 전체 관람가</desc>
@@ -24798,7 +24719,7 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20201026110500 +0900" stop="20201026130300 +0900" channel="40">
+  <programme start="20201026093000 +0900" stop="20201026121000 +0900" channel="40">
     <title lang="kr">20-21 V-리그 남자부</title>
     <sub-title lang="kr">대한항공:OK금융그룹,인천</sub-title>
     <desc lang="kr">20-21 V-리그 남자부
@@ -24809,7 +24730,7 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20201026130300 +0900" stop="20201026150100 +0900" channel="40">
+  <programme start="20201026121000 +0900" stop="20201026144000 +0900" channel="40">
     <title lang="kr">20-21 V-리그 남자부</title>
     <sub-title lang="kr">삼성화재:현대캐피탈,대전</sub-title>
     <desc lang="kr">20-21 V-리그 남자부
@@ -24820,7 +24741,7 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20201026150100 +0900" stop="20201026170100 +0900" channel="40">
+  <programme start="20201026144000 +0900" stop="20201026164000 +0900" channel="40">
     <title lang="kr">20-21 V-리그 여자부</title>
     <sub-title lang="kr">IBK기업은행:GS칼텍스,화성</sub-title>
     <desc lang="kr">20-21 V-리그 여자부
@@ -24831,7 +24752,7 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20201026170100 +0900" stop="20201026185800 +0900" channel="40">
+  <programme start="20201026164000 +0900" stop="20201026185800 +0900" channel="40">
     <title lang="kr">20-21 V-리그 여자부</title>
     <sub-title lang="kr">흥국생명:KGC인삼공사,인천</sub-title>
     <desc lang="kr">20-21 V-리그 여자부
@@ -25020,11 +24941,9 @@
     </rating>
   </programme>
   <programme start="20201027171000 +0900" stop="20201027182000 +0900" channel="40">
-    <title lang="kr">주간야구 (23회)</title>
-    <desc lang="kr">주간야구 (23회)
-회차 : 23회
+    <title lang="kr">20-21 V-리그 최고의 세트</title>
+    <desc lang="kr">20-21 V-리그 최고의 세트
 등급 : 전체 관람가</desc>
-    <episode-num system="xmltv_ns">0.22.0/0</episode-num>
     <previously-shown />
     <rating system="KMRB">
       <value>전체 관람가</value>
@@ -25043,14 +24962,6 @@
   <programme start="20201027213000 +0900" stop="20201027220000 +0900" channel="40">
     <title lang="kr">2020 베이스볼S</title>
     <desc lang="kr">2020 베이스볼S
-등급 : 전체 관람가</desc>
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20201027220000 +0900" stop="20201027230000 +0900" channel="40">
-    <title lang="kr">2020 베이스볼S 다이제스트</title>
-    <desc lang="kr">2020 베이스볼S 다이제스트
 등급 : 전체 관람가</desc>
     <rating system="KMRB">
       <value>전체 관람가</value>
